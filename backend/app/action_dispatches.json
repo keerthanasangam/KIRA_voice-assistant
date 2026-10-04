@@ -1,0 +1,17 @@
+[
+  {
+    "dispatch_id": "disp_1790245074_deli",
+    "call_id": null,
+    "action_type": "delivery_directions",
+    "title": "Delivery Gate & Flat Address",
+    "channel": "WhatsApp",
+    "recipient": "+919876543210",
+    "content": "📍 Delivery Instructions: Gate 2 landmark, Block B, Flat 402, Green Heights. Please leave the package with the security desk or at the doorstep. PIN: 402.",
+    "announcement": "I have just dispatched a WhatsApp message with the exact gate directions and flat number to your phone. Please leave the package at the doorstep.",
+    "status": "DELIVERED",
+    "delivered_at": "2026-09-24T15:47:54.611735Z",
+    "twilio_used": false,
+    "twilio_sid": null,
+    "latency_ms": 182
+  }
+]

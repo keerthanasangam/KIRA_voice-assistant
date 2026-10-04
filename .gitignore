@@ -1,0 +1,41 @@
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+backend/venv/
+
+# FastAPI / temporary files
+*.log
+*.tmp
+*.temp
+
+# Generated audio
+*.mp3
+*.wav
+*.webm
+*.ogg
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Vite
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
